@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/failurewgaz/Teste/issues"
   },
-  "homepage": "https://github.com/failurewgaz/Teste#readme"
+  "homepage": "https://github.com/failurewgaz/Teste#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jquery": "^3.6.0"
+  }
 }
